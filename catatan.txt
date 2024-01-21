@@ -1,0 +1,10 @@
+db name = clinic
+
+Website menggunakan framework bootstrap secara online.
+(Pastikan menggnakan koneksi internet).
+
+Menuju Dashboard admin
+http://localhost/clinic/admin/
+
+Username Admin = admin-klinik
+Password Admin = admin-klinik123
